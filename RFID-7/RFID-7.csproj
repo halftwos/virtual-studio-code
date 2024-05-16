@@ -9,4 +9,15 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.IO.Ports" Version="8.0.0" />
+    <PackageReference Include="System.Text.Encoding.CodePages" Version="8.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ISO15693DLL">
+      <HintPath>..\..\RFID\FR105M\HFReader\PC\API\ISO15693DLL\ISO15693DLL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
