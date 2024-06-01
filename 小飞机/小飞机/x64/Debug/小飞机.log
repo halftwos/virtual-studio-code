@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\90932\Desktop\vscode\小飞机\main.cpp(117,25): warning C4018: “>”: 有符号/无符号不匹配
+C:\Users\90932\Desktop\vscode\小飞机\main.cpp(253,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  小飞机.vcxproj -> C:\Users\90932\Desktop\vscode\小飞机\x64\Debug\小飞机.exe
