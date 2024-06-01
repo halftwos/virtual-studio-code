@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\90932\Desktop\vscode\text_5_18\源.c(53,10): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+C:\Users\90932\Desktop\vscode\text_5_18\源.c(55,10): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+  text_5_18.vcxproj -> C:\Users\90932\Desktop\vscode\text_5_18\x64\Debug\text_5_18.exe

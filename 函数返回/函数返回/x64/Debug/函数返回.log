@@ -1,0 +1,4 @@
+﻿  函数.c
+C:\Users\90932\Desktop\vscode\函数返回\函数返回\函数.c(11,8): warning C4244: “函数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\90932\Desktop\vscode\函数返回\函数返回\函数.c(23,14): warning C4098: “pound”:“void”函数返回值
+  函数返回.vcxproj -> C:\Users\90932\Desktop\vscode\函数返回\x64\Debug\函数返回.exe

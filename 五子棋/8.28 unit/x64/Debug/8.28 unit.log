@@ -1,0 +1,3 @@
+﻿  unit1.cpp
+C:\Users\90932\Desktop\vscode\8.28 unit\8.28 unit\unit1.cpp(142,1): warning C4715: “check_over”: 不是所有的控件路径都返回值
+  8.28 unit.vcxproj -> C:\Users\90932\Desktop\vscode\8.28 unit\x64\Debug\8.28 unit.exe

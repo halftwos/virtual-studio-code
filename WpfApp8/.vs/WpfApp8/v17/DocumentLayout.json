@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|c:\\users\\90932\\desktop\\vscode\\wpfapp8\\wpfapp8 2023 4.17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|solutionrelative:wpfapp8 2023 4.17\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|c:\\users\\90932\\desktop\\vscode\\wpfapp8\\wpfapp8 2023 4.17\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|solutionrelative:wpfapp8 2023 4.17\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|c:\\users\\90932\\desktop\\vscode\\wpfapp8\\wpfapp8 2023 4.17\\caroperator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|solutionrelative:wpfapp8 2023 4.17\\caroperator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|c:\\users\\90932\\desktop\\vscode\\wpfapp8\\wpfapp8 2023 4.17\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|solutionrelative:wpfapp8 2023 4.17\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|c:\\users\\90932\\desktop\\vscode\\wpfapp8\\wpfapp8 2023 4.17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|solutionrelative:wpfapp8 2023 4.17\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|c:\\users\\90932\\desktop\\vscode\\wpfapp8\\wpfapp8 2023 4.17\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6625BCE3-DA7E-46F0-B9EE-72D7E7AF3CEF}|WpfApp8 2023 4.17\\WpfApp8 2023 4.17.csproj|solutionrelative:wpfapp8 2023 4.17\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarOperator.xaml",
+              "DocumentMoniker": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\CarOperator.xaml",
+              "RelativeDocumentMoniker": "WpfApp8 2023 4.17\\CarOperator.xaml",
+              "ToolTip": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\CarOperator.xaml",
+              "RelativeToolTip": "WpfApp8 2023 4.17\\CarOperator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T09:59:59.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp8 2023 4.17\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp8 2023 4.17\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:10:38.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp8 2023 4.17\\App.xaml",
+              "ToolTip": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\App.xaml",
+              "RelativeToolTip": "WpfApp8 2023 4.17\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T03:11:18.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp8 2023 4.17\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp8 2023 4.17\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:10:49.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp8 2023 4.17\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp8 2023 4.17\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-17T03:00:19.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp8 2023 4.17\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\90932\\Desktop\\vscode\\WpfApp8\\WpfApp8 2023 4.17\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp8 2023 4.17\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwB8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T03:00:18.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

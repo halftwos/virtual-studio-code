@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfApp8 2023 4.17/1.0.0": {
+        "runtime": {
+          "WpfApp8 2023 4.17.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp8 2023 4.17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
