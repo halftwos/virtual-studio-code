@@ -1,0 +1,37 @@
+﻿<Window x:Class="_11.AddProductWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AddProductWindow" Height="250" Width="500">
+    <Grid Margin="10">
+        <!-- 定义行 -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- 产品名字 -->
+        <TextBlock Text="产品名字:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,10,0"/>
+        <TextBox x:Name="ProductNameTextBox" Grid.Row="0" Grid.Column="1" Margin="0,5,0,10" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <!-- 产品数量 -->
+        <TextBlock Text="产品数量:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,10,0"/>
+        <TextBox x:Name="ProductQuantityTextBox" Grid.Row="1" Grid.Column="1" Margin="0,5,0,10" Width="200" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+        <!-- 产品种类 -->
+        <TextBlock Text="产品种类:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="0,0,10,0"/>
+        <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Left">
+            <ComboBox x:Name="ProductCategoryComboBox" Width="200" Margin="0,5,0,10" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Button Content="添加新种类" Click="AddCategoryButton_Click" Width="80" Margin="5,5,0,10" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+            <Button Content="删除种类" Click="DeleteCategoryButton_Click" Width="80" Margin="5,5,0,10" HorizontalAlignment="Left" VerticalAlignment="Center" />
+        </StackPanel>
+
+        <!-- 添加按钮 -->
+        <Button Content="添加" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Click="AddButton_Click" Width="100" Margin="0,5,0,10" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
